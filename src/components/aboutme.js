@@ -23,6 +23,7 @@ function AboutMe() {
 				<Cell className="cv-right-col" col={8}>
 					<h2>About me </h2>
 					<p className="about-text">
+						
 						I like to think of myself as fearless person, by not being affraid
 						to take a leap of faith into the unknown. I started programming not
 						to long a ago and I find it something I like to do and even become
