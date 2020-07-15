@@ -23,8 +23,9 @@ function cv() {
 						I am fairly new to the programming industry but it always had my
 						attention, I just never thought that I would be smart or good enough
 						till now. I have changed my mindset and stuck to my guns, add more
-						determination to get to a point where I aspire to become a full stack developer. I
-						am still a junior developer for now but my goal doesn't stop there.
+						determination to get to a point where I aspire to become a full
+						stack developer. I am still a junior developer for now but my goal
+						doesn't stop there.
 					</p>
 					<hr style={{ borderTop: "3px solid #833fb2", width: "100%" }} />
 					<h5>Address: 11 Eight Street Bishop Lavis 7490</h5>
@@ -103,19 +104,19 @@ function cv() {
 					<Experience
 						startYear={2013}
 						endYear={2013}
-						jobName="First Job"
+						jobName="Motor Mechanic Apprentice"
 						jobDescription="An apprentice at Hyundai Pardien Eiland "
 					/>
 					<Experience
 						startYear={2013}
 						endYear={2015}
-						jobName="Second Job"
+						jobName="Motor Mechanic Apprentice"
 						jobDescription="An apprentice at Engine and Gearbox Exchange "
 					/>
 					<Experience
 						startYear={2017}
 						endYear={2020}
-						jobName="Third Job"
+						jobName="Roadmarking "
 						jobDescription="A general worker at Lourens Roadmarking "
 					/>
 

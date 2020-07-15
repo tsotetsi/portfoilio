@@ -29,7 +29,10 @@ function projects() {
 						style={{ height: "200px", width: "310px" }}
 					/>
 					Github Finder
-					<p>This is a react-app that finds users on github, using any characters. This is also my first React project I have done </p>
+					<p>
+						This is a react-app that finds users on github, using any
+						characters. This is also my first React project I have done{" "}
+					</p>
 				</CardText>
 				<CardActions border>
 					<Button colored>
@@ -118,7 +121,7 @@ function projects() {
 			</Card>
 			<Button>
 				<a
-					href="https://github.com/Oslinjohn20/repositories"
+					href=" https://github.com/Oslinjohn20?tab=repositories "
 					rel="noopener noreferrer"
 					target="_blank"
 					className="link-text"

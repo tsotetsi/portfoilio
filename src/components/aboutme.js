@@ -24,12 +24,12 @@ function AboutMe() {
 					<h2>About me </h2>
 					<p className="about-text">
 						I like to think of myself as fearless person, by not being affraid
-						to take a leap of faith into the unknown. I started programing not
+						to take a leap of faith into the unknown. I started programming not
 						to long a ago and I find it something I like to do and even become
 						great at it some day. Web development requires some what of a
 						problem solving experties and I like to believe I have those
-						qaulities to be problem solver of note. I pride myself on moving
-						forward and not staying stagnent. I consider myself a peoples person
+						qualities to be problem solver of note. I pride myself on moving
+						forward and not staying stagnant. I consider myself a peoples person
 						gel well with others and rarely offend people or try to bring them
 						down. When it comes to being a team player I consider myself a great
 						one and very good in communicating with others. I really do enjoy
